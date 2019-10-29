@@ -17,6 +17,16 @@ Aftar registered, the applicants habe their own secure page or dashboard for doi
 
 After completion series of studies -- as per curriculum approved by local nation/authority -- the students will undergo a final test and/or examination -- approved by nation/authority, and if He/She pass, He/She can obtain High School Diploma Certificate
 
+## To Do List
+
+1. Make a full complete website
+2. Authorithy Permission
+3. Setting Up Land Base
+4. Gathering Professional (Teacher, IT, Librarian, etc)
+5. Deploying The Project
+6. Annaouncing To The World
+7. ...
+
 ## License
 
 MIT
