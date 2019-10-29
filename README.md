@@ -19,13 +19,13 @@ After completion series of studies -- as per curriculum approved by local nation
 
 ## To Do List
 
-1. Make a full complete website
-2. Authorithy Permission
-3. Setting Up Land Base
-4. Gathering Professional (Teacher, IT, Librarian, etc)
-5. Deploying The Project
-6. Annaouncing To The World
-7. ...
+- [ ] Make a full complete website
+- [ ] Authorithy Permission
+- [ ] Setting Up Land Base
+- [ ] Gathering Professional (Teacher, IT, Librarian, etc)
+- [ ] Deploying The Project
+- [ ] Annaouncing To The World
+- [ ] ...
 
 ## License
 
