@@ -29,7 +29,12 @@ After completion series of studies -- as per curriculum approved by local nation
 
 ## License
 
-MIT
+[Creative Common License](https://creativecommons.org)
+CC-BY-SA
+
+## Donation
+
+[Paypal](https://paypal.com)
 
 ## Contact
 
